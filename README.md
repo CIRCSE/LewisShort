@@ -3,6 +3,7 @@
 ## About
 
 RDF version (with linking to the LiLa Knowledge Base) of the Latin-English dictionary by Charlton T. Lewis and Charles Short. 1879. *A Latin Dictionary*. Clarendon Press, Oxford.
+It is a work in progress NOT yet complete.
 
 **Source of data**
 
