@@ -11,6 +11,8 @@ Data are taken from the digital edition of the Lewis and Short dictionary curate
 
 ## How to cite
 
+Paolo Ruffolo, Marco Passarotti, Eleonora Litta, Francesco Mambrini, & Giovanni Moretti. (2023). CIRCSE/LewisShort: Lewis & Short Dictionary (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8027557
+
 Mambrini Francesco, Litta Eleonora, Passarotti Marco, Ruffolo Paolo, 'Linking the Lewis & Short Dictionary to the LiLa Knowledge Base of Interoperable Linguistic Resources for Latin'. In Fersini Elisabetta, Passarotti Marco, Patti Viviana (eds.), *Proceedings of the Eighth Italian Conference on Computational Linguistics (CLiC-it 2021). Milan, Italy, January 26-28, 2022*, CEUR Workshop Proceedings, 2021, pp. 1-7. ISSN: 1613-0073. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5773783.svg)](https://doi.org/10.5281/zenodo.5773783) – http://ceur-ws.org/Vol-3033/paper27.pdf
 
 ## Copyright
